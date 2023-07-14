@@ -10,6 +10,7 @@ Our task is to create a Python script that analyzes the records to calculate eac
 -The greatest increase in profits (date and amount) over the entire period
 -The greatest decrease in profits (date and amount) over the entire period
 
+
 PyPoll: 
 We are tasked with helping a small, rural town modernize its vote-counting process.
 
